@@ -1,6 +1,14 @@
-# Awesome Legal
+# Awesome Legal [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Awesome free legal documents for companies
+
+## Contents
+
+- [Site Policies](#site-policies)
+- [Employee Policies](#employee-policies)
+- [Customer Agreements](#customer-agreements)
+- [Equity Agreements](#equity-agreements)
+- [Other](#other)
 
 ## Site Policies
 
