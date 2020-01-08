@@ -5,7 +5,7 @@ Awesome free legal documents for companies
 ## Contents
 
 - [Site Policies](#site-policies)
-- [Employee Policies](#employee-policies)
+- [Employee Agreements](#employee-agreements)
 - [Customer Agreements](#customer-agreements)
 - [Advisor Agreements](#advisor-agreements)
 - [Equity Agreements](#equity-agreements)
@@ -19,7 +19,7 @@ Terms of service, privacy policy, and more
 - [Basecamp](https://github.com/basecamp/policies) (CC BY 4.0)
 - [Automattic](https://github.com/Automattic/legalmattic) (CC BY-SA 4.0)
 
-## Employee Policies
+## Employee Agreements
 
 - [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) (GitHub, CC0 1.0)
 
