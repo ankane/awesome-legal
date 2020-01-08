@@ -31,7 +31,7 @@ There are also agreements in many of the [site policy](#site-policies) resources
 
 ## Advisor Agreements
 
-- [Founder / Advisor Standard Template (FAST)](https://fi.co/FAST)
+- [Founder / Advisor Standard Template (FAST)](https://fi.co/FAST) (Founder Institute)
 
 ## Equity Agreements
 
