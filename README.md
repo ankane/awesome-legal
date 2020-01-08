@@ -7,6 +7,7 @@ Awesome free legal documents for companies
 - [Site Policies](#site-policies)
 - [Employee Policies](#employee-policies)
 - [Customer Agreements](#customer-agreements)
+- [Advisor Agreements](#advisor-agreements)
 - [Equity Agreements](#equity-agreements)
 - [Other](#other)
 
@@ -27,6 +28,10 @@ Terms of service, privacy policy, and more
 - [Sales Agreement](https://www.ycombinator.com/sales_agreement/) (Y Combinator)
 
 There are also agreements in many of the [site policy](#site-policies) resources as well.
+
+## Advisor Agreements
+
+- [Founder / Advisor Standard Template (FAST)](https://fi.co/FAST)
 
 ## Equity Agreements
 
