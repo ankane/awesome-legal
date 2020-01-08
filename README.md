@@ -16,7 +16,7 @@ Terms of service, privacy policy, and more
 
 ## Customer Agreements
 
-- [Sales Agreement](https://www.ycombinator.com/sales_agreement/) (YCombinator)
+- [Sales Agreement](https://www.ycombinator.com/sales_agreement/) (Y Combinator)
 
 There are also agreements in many of the [site policy](#site-policies) resources as well.
 
@@ -24,9 +24,9 @@ There are also agreements in many of the [site policy](#site-policies) resources
 
 Seed
 
-- [SAFE](https://www.ycombinator.com/documents/#safe) (YCombinator)
-- [KISS](https://500.co/kiss/) (500 Startups)
+- [Simple Agreement for Future Equity (SAFE)](https://www.ycombinator.com/documents/#safe) (Y Combinator)
+- [Keep It Simple Security (KISS)](https://500.co/kiss/) (500 Startups)
 
 Series A
 
-- [Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/) (YCombinator)
+- [Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/) (Y Combinator)
