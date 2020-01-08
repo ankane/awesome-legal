@@ -30,3 +30,7 @@ Seed
 Series A
 
 - [Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/) (Y Combinator)
+
+## Other
+
+- [Cooley GO](https://www.cooleygo.com/documents/index-document-generators/) - a large range of documents for starting and running your company
