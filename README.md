@@ -14,9 +14,9 @@ Awesome free legal documents for companies
 
 Terms of service, privacy policy, and more
 
-- [GitHub](https://github.com/github/site-policy) - CC0 1.0
-- [Basecamp](https://github.com/basecamp/policies) - CC BY 4.0
-- [Automattic](https://github.com/Automattic/legalmattic) - CC BY-SA 4.0
+- [GitHub](https://github.com/github/site-policy) (CC0 1.0)
+- [Basecamp](https://github.com/basecamp/policies) (CC BY 4.0)
+- [Automattic](https://github.com/Automattic/legalmattic) (CC BY-SA 4.0)
 
 ## Employee Policies
 
@@ -41,4 +41,4 @@ Series A
 
 ## Other
 
-- [Cooley GO](https://www.cooleygo.com/documents/index-document-generators/) - a large range of documents for starting and running your company
+- [Cooley GO](https://www.cooleygo.com/documents/index-document-generators/) - A large range of documents for starting and running your company.
