@@ -2,6 +2,8 @@
 
 Awesome free legal documents for companies
 
+Documents that use [plain language](https://hbr.org/2018/01/the-case-for-plain-language-contracts) are marked with :tada:
+
 ## Contents
 
 - [Site Policies](#site-policies)
@@ -16,8 +18,8 @@ Awesome free legal documents for companies
 Terms of service, privacy policy, and more
 
 - [GitHub](https://github.com/github/site-policy) (CC0 1.0)
-- [Basecamp](https://github.com/basecamp/policies) (CC BY 4.0)
-- [Automattic](https://github.com/Automattic/legalmattic) (CC BY-SA 4.0)
+- [Basecamp](https://github.com/basecamp/policies) (CC BY 4.0) :tada:
+- [Automattic](https://github.com/Automattic/legalmattic) (CC BY-SA 4.0) :tada:
 
 ## Customer Agreements
 
@@ -27,7 +29,7 @@ There are also agreements in many of the [site policy](#site-policies) resources
 
 ## Employee Agreements
 
-- [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) (GitHub, CC0 1.0)
+- [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) (GitHub, CC0 1.0) :tada:
 - [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) (Rackspace, CC BY 4.0)
 
 ## Advisor Agreements
