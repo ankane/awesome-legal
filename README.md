@@ -28,6 +28,7 @@ There are also agreements in many of the [site policy](#site-policies) resources
 ## Employee Agreements
 
 - [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) (GitHub, CC0 1.0)
+- [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) (Rackspace, CC BY 4.0)
 
 ## Advisor Agreements
 
