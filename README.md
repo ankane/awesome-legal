@@ -9,7 +9,7 @@ Awesome free legal documents for companies
 - [Employee Agreements](#employee-agreements)
 - [Advisor Agreements](#advisor-agreements)
 - [Equity Agreements](#equity-agreements)
-- [Other](#other)
+- [Libraries](#libraries)
 
 ## Site Policies
 
@@ -45,7 +45,9 @@ Series A
 
 - [Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/) (Y Combinator)
 
-## Other
+## Libraries
 
-- [Cooley GO](https://www.cooleygo.com/documents/index-document-generators/) - A large range of documents for starting and running your company.
+Resources with a large range of documents.
+
+- [Cooley GO](https://www.cooleygo.com/documents/index-document-generators/)
 - [Orrick Start Up Forms Library](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms)
