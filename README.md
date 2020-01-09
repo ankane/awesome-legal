@@ -17,7 +17,7 @@ Documents that use [plain language](https://hbr.org/2018/01/the-case-for-plain-l
 
 Terms of service, privacy policy, and more
 
-- [GitHub](https://github.com/github/site-policy) (CC0 1.0)
+- [GitHub](https://github.com/github/site-policy) (CC0 1.0) :tada:
 - [Basecamp](https://github.com/basecamp/policies) (CC BY 4.0) :tada:
 - [Automattic](https://github.com/Automattic/legalmattic) (CC BY-SA 4.0) :tada:
 
