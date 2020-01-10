@@ -13,7 +13,7 @@ The information in this repository is for informational purposes only and is not
 - [Employee Agreements](#employee-agreements)
 - [Consulting Agreements](#consulting-agreements)
 - [Advisor Agreements](#advisor-agreements)
-- [Equity Agreements](#equity-agreements)
+- [Investor Agreements](#investor-agreements)
 - [Libraries](#libraries)
 
 ## Site Policies
@@ -56,7 +56,7 @@ Employee offer letters
 - [Founder Institute - Founder / Advisor Standard Template (FAST)](https://fi.co/FAST)
 - [Cooley Go](https://www.cooleygo.com/documents/form-advisor-agreement/)
 
-## Equity Agreements
+## Investor Agreements
 
 Seed
 
