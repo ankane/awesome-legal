@@ -32,12 +32,14 @@ There are also agreements in many of the [site policy](#site-policies) resources
 
 ## Employee Agreements
 
-IP agreements
+Employee IP agreements
 
 - [GitHub - Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) :tada:
 - [Rackspace - Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+- [Cooley Go](https://www.cooleygo.com/documents/form-employee-confidential-information-inventions-assignment-agreement/)
+- [Orrick](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms/Employment-and-Consultant)
 
-Offer letters
+Employee offer letters
 
 - [Cooley Go](https://www.cooleygo.com/documents/form-employee-offer-letter/)
 - [Orrick](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms/Employment-and-Consultant)
