@@ -75,3 +75,4 @@ Resources with a large range of documents.
 - [Cooley GO - Document Generators](https://www.cooleygo.com/documents/index-document-generators/)
 - [NVCA - Model Legal Documents](https://nvca.org/model-legal-documents/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
+- [CoFoundersLab - Templates for Entrepreneurs](http://info.cofounderslab.com/templates)
