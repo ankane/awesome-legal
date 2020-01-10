@@ -13,6 +13,7 @@ Documents that use [plain language](https://hbr.org/2018/01/the-case-for-plain-l
 - [Advisor Agreements](#advisor-agreements)
 - [Equity Agreements](#equity-agreements)
 - [Libraries](#libraries)
+- [Disclaimer](#disclaimer)
 
 ## Site Policies
 
@@ -73,3 +74,9 @@ Resources with a large range of documents.
 - [Orrick - Startup Forms Library](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms)
 - [NVCA - Model Legal Documents](https://nvca.org/model-legal-documents/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
+
+## Disclaimer
+
+The information in this repository is for informational purposes only and is not intended to convey or constitute legal advice.
+
+Licensed under [CC0 1.0](LICENSE.txt).
