@@ -8,7 +8,6 @@ The information in this repository is for informational purposes only and is not
 
 ## Contents
 
-- [Site Policies](#site-policies)
 - [Customer Agreements](#customer-agreements)
 - [Employee Agreements](#employee-agreements)
 - [Consulting Agreements](#consulting-agreements)
@@ -16,7 +15,7 @@ The information in this repository is for informational purposes only and is not
 - [Investor Agreements](#investor-agreements)
 - [Libraries](#libraries)
 
-## Site Policies
+## Customer Agreements
 
 Terms of service, privacy policy, and more
 
@@ -24,13 +23,9 @@ Terms of service, privacy policy, and more
 - [Basecamp](https://github.com/basecamp/policies) :tada:
 - [Automattic](https://github.com/Automattic/legalmattic) :tada:
 
-## Customer Agreements
-
 Sales agreements
 
 - [Y Combinator](https://www.ycombinator.com/sales_agreement/)
-
-There are also agreements in many of the [site policy](#site-policies) resources.
 
 ## Employee Agreements
 
