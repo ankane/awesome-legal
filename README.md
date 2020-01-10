@@ -25,7 +25,7 @@ Terms of service, privacy policy, and more
 
 - [Sales Agreement](https://www.ycombinator.com/sales_agreement/) (Y Combinator)
 
-There are also agreements in many of the [site policy](#site-policies) resources as well.
+There are also agreements in many of the [site policy](#site-policies) resources.
 
 ## Employee Agreements
 
