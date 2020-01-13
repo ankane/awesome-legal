@@ -14,6 +14,7 @@ The information in this repository is for informational purposes only and is not
 - [Consulting Agreements](#consulting-agreements)
 - [Advisor Agreements](#advisor-agreements)
 - [Investor Agreements](#investor-agreements)
+- [Non-Disclosure Agreements](#non-disclosure-agreements)
 - [Libraries](#libraries)
 
 ## Site Policies
@@ -66,6 +67,18 @@ Seed
 Series A
 
 - [Y Combinator - Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/)
+
+## Non-Disclosure Agreements
+
+Mutual
+
+- [Three Wise Monkeys](https://stuffandnonsense.co.uk/projects/three-wise-monkeys) :tada:
+- [Cooley](https://www.cooleygo.com/documents/form-non-disclosure-agreement-mutual/)
+
+One-way
+
+- [Five Minute Law](https://fiveminutelaw.com/2018/06/04/the-plain-language-nda/) :tada:
+- [Cooley](https://www.cooleygo.com/documents/form-non-disclosure-agreement-one-way/)
 
 ## Libraries
 
