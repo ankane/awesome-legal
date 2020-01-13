@@ -14,6 +14,7 @@ The information in this repository is for informational purposes only and is not
 - [Consulting Agreements](#consulting-agreements)
 - [Advisor Agreements](#advisor-agreements)
 - [Investor Agreements](#investor-agreements)
+- [Founder Agreements](#founder-agreements)
 - [Non-Disclosure Agreements](#non-disclosure-agreements)
 - [Libraries](#libraries)
 
@@ -67,6 +68,10 @@ Seed
 Series A
 
 - [Y Combinator - Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/)
+
+## Founder Agreements
+
+- [UPenn](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/founders-agreement.pdf)
 
 ## Non-Disclosure Agreements
 
