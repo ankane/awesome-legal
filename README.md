@@ -25,6 +25,7 @@ Terms of service, privacy policy, and more
 - [GitHub](https://github.com/github/site-policy) :tada:
 - [Basecamp](https://github.com/basecamp/policies) :tada:
 - [Automattic](https://github.com/Automattic/legalmattic) :tada:
+- [Creative Commons](https://creativecommons.org/policies/)
 
 ## Customer Agreements
 
