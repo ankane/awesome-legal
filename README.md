@@ -66,9 +66,10 @@ Seed
 - [500 Startups - Keep It Simple Security (KISS)](https://500.co/kiss/)
 - [Series Seed](https://github.com/seriesseed/equity)
 
-Series A
+Series A and later
 
 - [Y Combinator - Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/)
+- [NVCA - Model Legal Documents](https://nvca.org/model-legal-documents/)
 
 ## Founder Agreements
 
@@ -92,5 +93,4 @@ Resources with a large range of documents.
 
 - [Orrick - Startup Forms Library](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms)
 - [Cooley - Document Generators](https://www.cooleygo.com/documents/index-document-generators/)
-- [NVCA - Model Legal Documents](https://nvca.org/model-legal-documents/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
