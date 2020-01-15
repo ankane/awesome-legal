@@ -94,3 +94,4 @@ Resources with a large range of documents.
 - [Orrick - Startup Forms Library](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms)
 - [Cooley - Document Generators](https://www.cooleygo.com/documents/index-document-generators/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
+- [Docracy - Open Legal Documents](https://www.docracy.com/)
