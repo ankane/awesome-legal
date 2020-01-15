@@ -64,6 +64,7 @@ Seed
 
 - [Y Combinator - Simple Agreement for Future Equity (SAFE)](https://www.ycombinator.com/documents/#safe)
 - [500 Startups - Keep It Simple Security (KISS)](https://500.co/kiss/)
+- [Series Seed](https://github.com/seriesseed/equity)
 
 Series A
 
