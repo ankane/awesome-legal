@@ -72,7 +72,6 @@ Series A and later
 
 - [Y Combinator - Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/)
 - [NVCA - Model Legal Documents](https://nvca.org/model-legal-documents/)
-- [Bloomberg Beta](https://github.com/Bloomberg-Beta/Investment-Documents)
 
 ## Founder Agreements
 
