@@ -66,11 +66,13 @@ Seed
 - [Y Combinator - Simple Agreement for Future Equity (SAFE)](https://www.ycombinator.com/documents/#safe)
 - [500 Startups - Keep It Simple Security (KISS)](https://500.co/kiss/)
 - [Series Seed](https://github.com/seriesseed/equity)
+- [Bloomberg Beta](https://github.com/Bloomberg-Beta/Investment-Documents)
 
 Series A and later
 
 - [Y Combinator - Series A Term Sheet](https://www.ycombinator.com/series_a_term_sheet/)
 - [NVCA - Model Legal Documents](https://nvca.org/model-legal-documents/)
+- [Bloomberg Beta](https://github.com/Bloomberg-Beta/Investment-Documents)
 
 ## Founder Agreements
 
