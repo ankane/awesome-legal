@@ -16,6 +16,7 @@ The information in this repository is for informational purposes only and is not
 - [Investor Agreements](#investor-agreements)
 - [Founder Agreements](#founder-agreements)
 - [Non-Disclosure Agreements](#non-disclosure-agreements)
+- [HIPAA Policies](#hipaa-policies)
 - [Libraries](#libraries)
 
 ## Site Policies
@@ -88,6 +89,10 @@ One-way
 
 - [Five Minute Law](https://fiveminutelaw.com/2018/06/04/the-plain-language-nda/) :tada:
 - [Cooley](https://www.cooleygo.com/documents/form-non-disclosure-agreement-one-way/)
+
+## HIPAA Policies
+
+- [Datica](https://github.com/catalyzeio/policies)
 
 ## Libraries
 
