@@ -66,7 +66,6 @@ Employee offer letters
 Seed
 
 - [Y Combinator - Simple Agreement for Future Equity (SAFE)](https://www.ycombinator.com/documents/#safe)
-- [500 Startups - Keep It Simple Security (KISS)](https://500.co/kiss/)
 - [Series Seed](https://github.com/seriesseed/equity) (and [Cooley Fork](https://github.com/CooleyLLP/seriesseed))
 - [Bloomberg Beta](https://github.com/Bloomberg-Beta/Investment-Documents)
 
@@ -91,10 +90,6 @@ One-way
 - [Five Minute Law](https://fiveminutelaw.com/2018/06/04/the-plain-language-nda/) :tada:
 - [Cooley](https://www.cooleygo.com/documents/form-non-disclosure-agreement-one-way/)
 
-## HIPAA Policies
-
-- [Datica](https://github.com/catalyzeio/policies)
-
 ## Libraries
 
 Resources with a large range of documents.
@@ -102,4 +97,3 @@ Resources with a large range of documents.
 - [Orrick - Startup Forms Library](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms)
 - [Cooley - Document Generators](https://www.cooleygo.com/documents/index-document-generators/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
-- [Docracy - Open Legal Documents](https://www.docracy.com/)
