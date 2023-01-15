@@ -16,7 +16,6 @@ The information in this repository is for informational purposes only and is not
 - [Investor Agreements](#investor-agreements)
 - [Founder Agreements](#founder-agreements)
 - [Non-Disclosure Agreements](#non-disclosure-agreements)
-- [HIPAA Policies](#hipaa-policies)
 - [Libraries](#libraries)
 
 ## Site Policies
