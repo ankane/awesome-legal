@@ -27,12 +27,15 @@ Terms of service, privacy policy, and more
 - [Automattic](https://github.com/Automattic/legalmattic) :tada:
 - [Creative Commons](https://creativecommons.org/policies/)
 - [Medium](https://github.com/Medium/medium-policy)
+- [Common Paper](https://commonpaper.com/standards/terms-of-service/)
 
 ## Customer Agreements
 
 Sales agreements
 
 - [Y Combinator](https://www.ycombinator.com/sales_agreement/)
+- [Common Paper - Cloud Service Agreement](https://commonpaper.com/standards/cloud-service-agreement/)
+- [Common Paper - Professional Service Agreement](https://commonpaper.com/standards/professional-services-agreement/)
 
 There are also agreements in many of the [site policy](#site-policies) resources.
 
@@ -83,6 +86,7 @@ Mutual
 
 - [Three Wise Monkeys](https://stuffandnonsense.co.uk/projects/three-wise-monkeys) :tada:
 - [Cooley](https://www.cooleygo.com/documents/form-non-disclosure-agreement-mutual/)
+- [Common Paper](https://commonpaper.com/standards/mutual-nda/)
 
 One-way
 
@@ -96,3 +100,4 @@ Resources with a large range of documents.
 - [Orrick - Startup Forms Library](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms)
 - [Cooley - Document Generators](https://www.cooleygo.com/documents/index-document-generators/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
+- [Common Paper](https://commonpaper.com/standards/)
