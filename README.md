@@ -35,7 +35,7 @@ Sales agreements
 
 - [Y Combinator](https://www.ycombinator.com/sales_agreement/)
 - [Common Paper - Cloud Service Agreement](https://commonpaper.com/standards/cloud-service-agreement/)
-- [Common Paper - Professional Service Agreement](https://commonpaper.com/standards/professional-services-agreement/)
+- [Common Paper - Professional Services Agreement](https://commonpaper.com/standards/professional-services-agreement/)
 
 There are also agreements in many of the [site policy](#site-policies) resources.
 
