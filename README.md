@@ -84,7 +84,6 @@ Series A and later
 
 Mutual
 
-- [Three Wise Monkeys](https://stuffandnonsense.co.uk/projects/three-wise-monkeys) :tada:
 - [Cooley](https://www.cooleygo.com/documents/form-non-disclosure-agreement-mutual/)
 - [Common Paper](https://commonpaper.com/standards/mutual-nda/)
 
