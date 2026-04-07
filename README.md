@@ -28,6 +28,7 @@ Terms of service, privacy policy, and more
 - [Creative Commons](https://creativecommons.org/policies/)
 - [Medium](https://github.com/Medium/medium-policy)
 - [Common Paper](https://commonpaper.com/standards/terms-of-service/)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 
 ## Customer Agreements
 
@@ -86,6 +87,7 @@ Mutual
 
 - [Cooley](https://www.cooleygo.com/documents/form-non-disclosure-agreement-mutual/)
 - [Common Paper](https://commonpaper.com/standards/mutual-nda/)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 
 One-way
 
@@ -100,3 +102,4 @@ Resources with a large range of documents.
 - [Cooley - Document Generators](https://www.cooleygo.com/documents/index-document-generators/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
 - [Common Paper](https://commonpaper.com/standards/)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
