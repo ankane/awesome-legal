@@ -45,17 +45,17 @@ Employee IP agreements
 
 - [GitHub - Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) :tada:
 - [Rackspace - Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
-- [Orrick](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms/Employment-and-Consultant)
+- [Orrick](https://www.orrick.com/en/tech-studio/forms/Employee-Confidential-Information-and-Invention-Assignment-Agreement)
 - [Cooley](https://www.cooleygo.com/documents/form-employee-confidential-information-inventions-assignment-agreement/) (California employees)
 
 Employee offer letters
 
-- [Orrick](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms/Employment-and-Consultant)
+- [Orrick](https://www.orrick.com/en/tech-studio/forms/Employee-Offer-Letter)
 - [Cooley](https://www.cooleygo.com/documents/form-employee-offer-letter/) (California employees)
 
 ## Consulting Agreements
 
-- [Orrick](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms/Employment-and-Consultant)
+- [Orrick](https://www.orrick.com/en/tech-studio/forms/Consulting-Agreement)
 - [Cooley](https://www.cooleygo.com/documents/form-consulting-agreement/)
 
 ## Advisor Agreements
@@ -96,7 +96,7 @@ One-way
 
 Resources with a large range of documents.
 
-- [Orrick - Startup Forms Library](https://www.orrick.com/Total-Access/Tool-Kit/Start-Up-Forms)
+- [Orrick - Startup Forms Library](https://www.orrick.com/en/tech-studio/forms)
 - [Cooley - Document Generators](https://www.cooleygo.com/documents/index-document-generators/)
 - [UPenn - ELC Startup Kit](https://www.law.upenn.edu/clinic/entrepreneurship/startupkit/)
 - [Common Paper](https://commonpaper.com/standards/)
